@@ -8,6 +8,13 @@
     "xmr.se"
   ],
   "allowCustomHomeservers": true,
+  "elementCallUrl": null,
+
+  "pushNotificationDetails": {
+    "pushNotifyUrl": "https://sygnal.cloudhub.social/_matrix/push/v1/notify",
+    "vapidPublicKey": "BCAlXMEViGKDCqCIAxYfj2esZXvbbYTUqWxHpb7kHmBiEVGYHdUmkxoCIkY9zjw6gaJ-ovbxyHGJN8XyiyNqhmM",
+    "webPushAppID": "social.cloudhub.cinny.web"
+  },
 
   "featuredCommunities": {
     "openAsDefault": false,
