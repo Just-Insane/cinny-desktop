@@ -54,7 +54,7 @@
           "https://github.com/Just-Insane/cinny-desktop/releases/download/tauri/release.json"
       ],
       "dialog": true,
-      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDE2NDc3NDBGMTAzNTk1NUYKUldSZmxUVVFEM1JIRnRuMjVRTkFOQ21lUFI5KzRMU0s4OWtBS1RNRUVCNE9LcE9GcExNZ2M2NHoK"
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDFFMUJEQzlGMjYxRUNDRDgKUldUWXpCNG1uOXdiSGw0bUwxZzN1R0c2V1JvVGt0LzJTVXA3Rjc3LzRudCtnK1Y2a1lVRjhrYXMK"
     },
     "allowlist": {
       "all": true
