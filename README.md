@@ -1,19 +1,19 @@
 # Cinny desktop
 
-<a href="https://github.com/cinnyapp/cinny-desktop/releases">
-  <img alt="GitHub release downloads" src="https://img.shields.io/github/downloads/cinnyapp/cinny-desktop/total?style=social"></a>
+<a href="https://github.com/Just-Insane/cinny-desktop/releases">
+  <img alt="GitHub release downloads" src="https://img.shields.io/github/downloads/Just-Insane/cinny-desktop/total?style=social"></a>
 
 Cinny is a matrix client focusing primarily on simple, elegant and secure interface. The desktop app is made with Tauri.
 
 ## Download
 
-Installers for macOS, Windows and Linux can be downloaded from [Github releases](https://github.com/cinnyapp/cinny-desktop/releases). Releases are signed with a [Ed25519](https://ed25519.cr.yp.to/) public-key.
+Installers for macOS, Windows and Linux can be downloaded from [Github releases](https://github.com/Just-Insane/cinny-desktop/releases). Releases are signed with a [Ed25519](https://ed25519.cr.yp.to/) public-key.
 
 Operating System | Download
 ---|---
-Windows | <a href='https://github.com/cinnyapp/cinny-desktop/releases/latest/download/Cinny_desktop-x86_64.msi'>Get it on Windows</a>
-macOS | <a href='https://github.com/cinnyapp/cinny-desktop/releases/latest/download/Cinny_desktop-universal.dmg'>Get it on macOS</a>
-Linux | <a href='https://github.com/cinnyapp/cinny-desktop/releases/latest/download/Cinny_desktop-x86_64.AppImage'>Get it on Linux</a> · <a href='https://flathub.org/apps/details/in.cinny.Cinny'>Flatpak</a>
+Windows | <a href='https://github.com/Just-Insane/cinny-desktop/releases/latest/download/Cinny_desktop-x86_64.msi'>Get it on Windows</a>
+macOS | <a href='https://github.com/Just-Insane/cinny-desktop/releases/latest/download/Cinny_desktop-universal.dmg'>Get it on macOS</a>
+Linux | <a href='https://github.com/Just-Insane/cinny-desktop/releases/latest/download/Cinny_desktop-x86_64.AppImage'>Get it on Linux</a> · <a href='https://flathub.org/apps/details/in.cinny.Cinny'>Flatpak</a>
 
 Decoded public key:
 > RWRflTUQD3RHFtn25QNANCmePR9+4LSK89kAKTMEEB4OKpOFpLMgc64z
