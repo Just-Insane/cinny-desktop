@@ -2,6 +2,5 @@ experiment
 dist
 node_modules
 devAssets
-minisign.pub
 
 .DS_Store
